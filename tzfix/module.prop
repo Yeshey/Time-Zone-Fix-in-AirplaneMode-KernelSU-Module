@@ -1,0 +1,6 @@
+id=tzfix
+name=Timezone Freeze
+version=6.0
+versionCode=6
+author=you
+description=Freeze current timezone when airplane mode is on
